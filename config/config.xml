@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>OB Models</Name>
+    <Version>1.0.0</Version>
+
+    <Title>OB Models</Title>
+    <Publisher>obesebear</Publisher>
+
+    <TargetDir>@HomeDir@/IfwExamples/stylesheet</TargetDir>
+
+    <WizardStyle>Classic</WizardStyle>
+    <StyleSheet>style.qss</StyleSheet>
+    <TitleColor>#FFFFFF</TitleColor>
+
+    <AllowSpaceInPath>true</AllowSpaceInPath>
+    <AllowNonAsciiCharacters>true</AllowNonAsciiCharacters>
+</Installer>

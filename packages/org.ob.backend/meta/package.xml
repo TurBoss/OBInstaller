@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Installation Script</DisplayName>
+    <Description>The installation Script</Description>
+    <Version>1.0</Version>
+    <ReleaseDate>2017-01-22</ReleaseDate>
+    <Name>com.ovaremake.backend</Name>
+    <virtual>true</virtual>
+    <Default>true</Default>
+    <ForcedInstallation>true</ForcedInstallation>
+    <RequiresAdminRights>true</RequiresAdminRights>
+    <Script>installscript.js</Script>
+    <UserInterfaces>
+        <UserInterface>targetwidget.ui</UserInterface>
+    </UserInterfaces>
+</Package>
